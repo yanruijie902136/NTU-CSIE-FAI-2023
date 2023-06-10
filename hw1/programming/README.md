@@ -1,5 +1,7 @@
 # HW1: Search
 
+https://www.csie.ntu.edu.tw/~stchen/teaching/fai23/hw1/hw1.html
+
 ## Implement:
 Write your search algorithms in *search.py* and do not edit any other files, except for testing.
 
